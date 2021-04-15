@@ -298,8 +298,7 @@ html{
     opacity: 0.6;
 }
 .content-img{
-    background: url(/assets/img/map.jpg)top center/cover no-repeat;
-    padding-top: 50%;
+ 
 }
 .content-contact{
     padding: 32px 0px;
